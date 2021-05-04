@@ -4,6 +4,8 @@
 
 A small interactive mindfulness tool in a single file.
 
+It can be run as a python script or a standalone exe.
+
 Read more about the 54321 technique [here](https://insighttimer.com/blog/54321-grounding-technique/).
 
 Get the latest release [here](https://github.com/AlexBridgez/54321/releases/latest).
