@@ -3,3 +3,7 @@
 </p>
 
 A small interactive mindfulness tool in a single file.
+
+Read more about the 54321 technique [here](https://insighttimer.com/blog/54321-grounding-technique/).
+
+
